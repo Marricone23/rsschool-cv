@@ -40,8 +40,9 @@ I have experience at work under own home projects.
 2. the same slider on REACT(with the same functions)[slider-on-react](https://github.com/Marricone23/slider-on-react); 
 3. exchage currency converter US dollars - BYN; 
 4. Analog-clock; 
-5. I have been finishing my JS game "Battel sea"(you can play and estimate it very soon).Also you can find my works on GitHub. 
-6. Homeworks (React API SPA getting data from server, React+Redux SPA)
+5. I have been finishing my JS game "Battel sea"(you can play and estimate it very soon).Also you can find my works on GitHub;
+6. Homeworks (React API SPA getting data from server, React+Redux SPA);
+7. CV [cv](https://github.com/Marricone23/rsschool-cv/blob/gh-pages/cv.md).
 
 -------------------------------------------------
 
