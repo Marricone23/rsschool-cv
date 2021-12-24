@@ -1,5 +1,5 @@
 
-![logo](logo.jpg "Avatar") 
+![logo](/img/logo.jpg "Avatar") 
 
 ## Asouski Anton
 
@@ -10,11 +10,11 @@
 -------------------------------------------------
 
 ### Contact information:
-**Phone:** +375 (29) 7706433
-**E-mail:** marricone23@gmail.com
-**Web-site:** [www.av-asouski.ru](http://av-asouski.ru)
-**Discord:** Marricone23#3939
-[LinkedIn](http://linkedin.com/anton38)
+- **Phone:** +375 (29) 7706433
+- **E-mail:** marricone23@gmail.com
+- **Web-site:** [www.av-asouski.ru](http://av-asouski.ru)
+- **Discord:** Marricone23#3939
+- [LinkedIn](http://linkedin.com/anton38)
 
 
 ***************************************************
