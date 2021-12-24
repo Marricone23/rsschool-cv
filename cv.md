@@ -16,7 +16,6 @@
 - **Discord:** Marricone23#3939
 - [LinkedIn](http://linkedin.com/anton38)
 
-
 ***************************************************
 
 ### Briefly About Myself:
