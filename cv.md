@@ -2,7 +2,7 @@
 
 **************************************************
 
-![logo](img/logo.jpg "Avatar") 
+![logo](/logo.jpg "Avatar") 
 
 ## Asouski Anton
 
