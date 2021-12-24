@@ -1,5 +1,5 @@
 
-![logo](/logo.jpg "Avatar") 
+![logo](logo.jpg "Avatar") 
 
 ## Asouski Anton
 
