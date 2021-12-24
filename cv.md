@@ -36,7 +36,7 @@ I would be grateful if you are interested in my resume and give me the opportuni
 I have experience at work under own home projects. 
 
 **Among them:**
-1. slider on JS,HTML and CSS, in this slider you will find counter (which shows active slide and total amount of slides), also you can choose slides with the help of arrows and also with click on dots, also swipes are realized here (touch events), adapted for different devices;
+1. slider on JS,HTML and CSS, in this slider you will find counter (which shows active slide and total amount of slides), also you can choose slides with the help of arrows and also with click on dots, also swipes are realized here (touch events), adapted for different devices [slider](https://github.com/Marricone23/slider);
 2. the same slider on REACT(with the same functions); 
 3. exchage currency converter US dollars - BYN; 
 4. Analog-clock; 
