@@ -12,6 +12,7 @@ Junior Frontend Developer
 **Phone:** +375 (29) 7706433
 **E-mail:** marricone23@gmail.com
 **Web-site:** [www.av-asouski.ru](http://av-asouski.ru)
+**Discord:** Marricone23#3939
 [LinkedIn](http://linkedin.com/anton38)
 
 
