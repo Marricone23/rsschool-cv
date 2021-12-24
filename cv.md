@@ -1,6 +1,3 @@
-[rsschool-cv](https://github.com/Marricone23/rsschool-cv/tree/gh-pages)
-
-**************************************************
 
 ![logo](/logo.jpg "Avatar") 
 
@@ -9,6 +6,7 @@
 **************************************************
 
 **Junior Frontend Developer**
+
 -------------------------------------------------
 
 ### Contact information:
