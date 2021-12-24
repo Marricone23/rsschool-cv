@@ -3,9 +3,13 @@
 **************************************************
 
 ![logo](/img/logo.jpg "Avatar") 
+
 ## Asouski Anton
+
 **************************************************
+
 Junior Frontend Developer
+
 **************************************************
 
 ### Contact information:
@@ -17,6 +21,7 @@ Junior Frontend Developer
 
 
 ***************************************************
+
 ### Briefly About Myself:
 
 I have been studying front-end for 1 year. I have knowladge and can work with HTML, CSS, JavaScript, framework React, Webpack, Figma.
@@ -40,6 +45,7 @@ I have experience at work under own home projects.
 4. Analog-clock; 
 5. I have been finishing my JS game "Battel sea"(you can play and estimate it very soon).Also you can find my works on GitHub. 
 6. Homeworks (React API SPA getting data from server, React+Redux SPA)
+
 ****************************************************
 
 ### Skills and Proficiency:
@@ -55,7 +61,7 @@ I have experience at work under own home projects.
 * VS Code, IntelliJ IDEA
 * Adobe Photoshop, Illustrator
 
-****************************************************
+**************************************************
 
 ### Code example:
 
@@ -77,14 +83,15 @@ function countBits(n) {
   };  
   countBits(567536737);
 ```
-  *******************************************
+  *****************************************
+  
 ### Courses:
   * Udemy
   * HTML Academy
   * JavaScript Manual on learnjavascript.ru 
   * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-  ******************************************
+  ****************************************
 
 ### Languages:
 
