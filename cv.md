@@ -9,8 +9,7 @@
 **************************************************
 
 **Junior Frontend Developer**
-
-**************************************************
+-------------------------------------------------
 
 ### Contact information:
 **Phone:** +375 (29) 7706433
@@ -46,7 +45,7 @@ I have experience at work under own home projects.
 5. I have been finishing my JS game "Battel sea"(you can play and estimate it very soon).Also you can find my works on GitHub. 
 6. Homeworks (React API SPA getting data from server, React+Redux SPA)
 
-****************************************************
+-------------------------------------------------
 
 ### Skills and Proficiency:
 
