@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Marricone23.github.io/rsschool-cv/
+https://github.com/Marricone23/rsschool-cv/tree/rsschool-cv-html
