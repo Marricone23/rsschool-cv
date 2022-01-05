@@ -1,2 +1,3 @@
 # rsschool-cv
-https://github.com/Marricone23/rsschool-cv/blob/gh-pages/index.html
+https://marricone23.github.io/rsschool-cv/
+
