@@ -158,3 +158,15 @@ header {
  .rss-logo{
    height: 70px;  
  }
+
+ @media(max-width: 600px){
+    .left-side{
+       float: none;
+       width: 100%;       
+    }
+    .right-side{
+      float: none;
+      width: 100%;
+    }
+
+ }
