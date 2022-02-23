@@ -118,6 +118,41 @@ header {
  .nav-item a:hover{
    color: #F5DF4D
 }
+.contact-list{
+   
+}
+
+.lang {
+  justify-content: space-between;
+  position: relative; 
+  color: #FFFFFF;
+  margin: 0px 20px;
+  text-align: left;
+}
+
+.lang span{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.en{
+  color: #FFFFFF;
+}
+
+.ru{
+  color: #FFFFFF;
+}
+
+.active{ 
+  color: #F5DF4D;   
+}
+ 
+a{text-decoration: none;}
+
  .contact-item a  {
     text-decoration: none;
     color: #939597;
@@ -159,7 +194,79 @@ header {
    height: 70px;  
  }
 
- @media(max-width: 800px){
+
+ 
+.menu-btn{
+   display: flex;
+   align-items: center;
+   position: absolute;
+   top: 13px;
+   right: 15px;
+   width: 26px;
+   height: 26px;
+   cursor: pointer;
+   z-index: 15;  
+   
+ }
+
+  
+ .menu-btn > span,
+ .menu-btn > span::before,
+ .menu-btn > span::after {
+   display: block;
+   position: absolute;
+   width: 100%;
+   visibility: hidden;
+   height: 2px;
+   background-color: #616161;
+   transition-duration: .25s;
+   width: 32px;
+height: 2px;
+top: 32px;
+background: #FFFFFF;
+border-radius: 0px;
+z-index: 15;
+ }
+ .menu-btn > span::before {
+   content: '';
+   top: -8px;
+ }
+ .menu-btn > span::after {
+   content: '';
+   top: 8px;
+ }
+
+ .menubox{   
+   position: relative;
+   visibility: visible;   
+   list-style: none;
+   transition-duration: .25s; 
+   /*min-width: 620px; */       
+ }
+
+#menu-toggle{
+   opacity: 0;
+   display: none;
+ }
+
+ #menu-toggle:checked ~ .menu-btn > span{
+   transform: rotate(45deg);
+ }
+ #menu-toggle:checked ~ .menu-btn > span::before{
+   top: 0;
+   transform: rotate(0);
+ }
+ #menu-toggle:checked ~ .menu-btn > span::after{
+   top: 0;
+   transform: rotate(90deg);
+ }
+ #menu-toggle:checked ~ .menubox{
+   visibility: visible;
+   right: 0;
+ }
+
+
+ @media(max-width: 600px){
     .left-side{
        float: none;
        width: 100%;       
@@ -168,5 +275,33 @@ header {
       float: none;
       width: 100%;
     }
+
+    .menu-btn > span,
+    .menu-btn > span::before,
+    .menu-btn > span::after {        
+      visibility: visible;  
+      z-index: 5;   
+    }
+
+    .menubox{        
+       visibility: hidden;
+        display: block;
+        position: fixed;
+        visibility: hidden;
+        top: 0;
+        right: -100%;
+        width: 300px;
+        height: 100%;
+        margin: 0;
+        padding: 80px 40px;
+        list-style: none;
+        text-align:left;
+        z-index: 10;
+        background-color: lightgray;
+    }  
+
+    #menu-toggle:checked ~ .menubox {        
+        visibility: visible;
+        right: 0px;}
 
  }
