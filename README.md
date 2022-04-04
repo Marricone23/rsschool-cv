@@ -1,6 +1,7 @@
-# rsschool-cv
-CV Anton Asouski
+[rsschool-cv](https://github.com/Marricone23/rsschool-cv/tree/gh-pages)
+
 **************************************************
+
 ![logo](./assets/img/logo.jpg "Avatar") 
 ## Осовский Антон Вячеславович
 
@@ -41,6 +42,10 @@ I have experience at work under own home projects.
 4. Analog-clock; 
 5. I have been finishing my JS game "Battel sea"(you can play and estimate it very soon).Also you can find my works on GitHub. 
 6. Homeworks (React API SPA getting data from server, React+Redux SPA)
+7. Memory card game. This game should improve memory and mental activity. You have to find matches and open all cards;
+8. AudioApp, you can play sounds of nature, songs of the birds;
+9. Generator of quotes. Getting the information with the help of fetch from API;
+10.I also have simple sites like practice work;
 
 ****************************************************
 
@@ -56,6 +61,7 @@ I have experience at work under own home projects.
 * Git, GitHub
 * VS Code, IntelliJ IDEA
 * Adobe Photoshop, Illustrator
+* Galp
 
 ****************************************************
 
@@ -84,7 +90,8 @@ function countBits(n) {
   * Udemy
   * HTML Academy
   * JavaScript Manual on learnjavascript.ru 
-  * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+  * RS Schools Course «JavaScript/Front-end. Stage 0». Certificate
+  * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
   ******************************************
 
