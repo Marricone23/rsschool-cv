@@ -61,6 +61,7 @@ I have experience at work under own home projects.
 * Git, GitHub
 * VS Code, IntelliJ IDEA
 * Adobe Photoshop, Illustrator
+* Galp
 
 ****************************************************
 
