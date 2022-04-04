@@ -85,7 +85,8 @@ function countBits(n) {
   * Udemy
   * HTML Academy
   * JavaScript Manual on learnjavascript.ru 
-  * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+  * RS Schools Course «JavaScript/Front-end. Stage 0». Certificate
+  * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
   ******************************************
 
